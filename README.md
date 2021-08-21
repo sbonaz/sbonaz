@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbonaz
 - 👀 I’m interested in Web 3.0 protocols;
-- 🌱 I’m currently learning .GO and DeFi primitives;
+- 🌱 I’m currently interested in Avalanche and Flow ecosystems to build awesome DeFi things;
 - 💞️ I’m looking to collaborate on blockchain for finance;
 - 📫 How to reach: me @sbonazebi
 
