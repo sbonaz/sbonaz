@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbonaz
 - 👀 I’m interested in Web 3.0 protocols;
-- 🌱 I’m currently interested in Avalanche and Flow ecosystems to build awesome DeFi things;
+- 🌱 I’m currently interested in HyperverseDAO for Smart Contract composability and Avalanche ecosystem to build awesome DeFi things;
 - 💞️ I’m looking to collaborate on blockchain for finance;
 - 📫 How to reach: me @sbonazebi
 
